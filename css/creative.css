@@ -51,6 +51,11 @@ p {
 .text-faded {
   color: rgba(255, 255, 255, 0.7); }
 
+.text-shadow {
+  color: #EFC9F3;
+  text-shadow: 1px 1px 2px black;
+}
+
 section {
   padding: 100px 0; }
 
@@ -342,8 +347,12 @@ header.masthead {
   border-radius: 300px;
   font-family: 'Montserrat', 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 
-.btn-xl {
+  .btn-sm {
+  padding: 15px; }
+
+  .btn-xl {
   padding: 15px 30px; }
+
 
   ul.banner-social-buttons {
     margin-top: 0; }
