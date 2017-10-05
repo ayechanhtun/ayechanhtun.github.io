@@ -41,6 +41,9 @@ p {
   line-height: 1.5;
   margin-bottom: 20px; }
 
+mark {
+  background: rgba(10, 10, 10, 0.05); }
+
 .bg-primary {
   background-color: #232b2e !important; }
 
@@ -172,8 +175,7 @@ header.masthead {
       font-size: 16px;
       font-weight: 300;
       margin-bottom: 50px;
-      color: white;
-      text-shadow: 1px 1px 2px black; }
+      color: black; }
   @media (min-width: 768px) {
     header.masthead {
       height: 100%;
