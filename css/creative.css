@@ -42,7 +42,7 @@ p {
   margin-bottom: 20px; }
 
 mark {
-  background: rgba(10, 10, 10, 0.05); }
+  background: rgba(0, 0, 0, 0.05); }
 
 .bg-primary {
   background-color: #232b2e !important; }
