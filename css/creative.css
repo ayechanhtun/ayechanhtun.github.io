@@ -80,7 +80,7 @@ img::-moz-selection {
   background: transparent; }
 
 img.photo-avatar {
-	float: left;
+	float: center;
 	width: 300px;
 	padding: 4px 20px 10px 0px;
 	border-radius: 50%;
@@ -170,7 +170,7 @@ header.masthead {
     position: relative;
     width: 100%;
     padding: 150px 15px 100px;
-    text-align: left; }
+    text-align: center; }
     header.masthead .header-content .header-content-inner h1 {
       font-size: 30px;
       font-weight: 700;
